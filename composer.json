@@ -1,5 +1,5 @@
 {
-    "name": "aerialship/saml-sp-bundle",
+    "name": "jaspoor/saml-sp-bundle",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Symfony2 SAML2 authentication bundle",
