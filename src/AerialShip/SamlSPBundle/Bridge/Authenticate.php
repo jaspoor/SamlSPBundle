@@ -4,6 +4,7 @@ namespace AerialShip\SamlSPBundle\Bridge;
 
 use AerialShip\LightSaml\Binding\HttpRedirect;
 use AerialShip\LightSaml\Meta\AuthnRequestBuilder;
+use AerialShip\LightSaml\Meta\SerializationContext;
 use AerialShip\SamlSPBundle\Config\ServiceInfoCollection;
 use AerialShip\SamlSPBundle\RelyingParty\RelyingPartyInterface;
 use AerialShip\SamlSPBundle\State\Request\RequestState;
